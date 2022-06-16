@@ -23,6 +23,12 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  const reversedWord = reverseString(word);
+  if (word === reversedWord) {
+    return true;
+  } else {
+    return false;
+  }
 */
 
 /*
